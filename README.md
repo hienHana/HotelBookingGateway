@@ -8,4 +8,4 @@ The Hotel Booking System project follows Microservice architecture. It has 3 mic
 
 - User can search hotel by city, hotel name, or area, and checkin date, checkout date. User also can search by star rating
 - After select a room, user can login to book.
-# HotelBookingGateway
+
